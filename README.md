@@ -1,4 +1,8 @@
 # Sakshi-demo
 This is my first Git Repository.
 <br>
-Author-Sakshi Gupta
+Name-Sakshi Gupta
+<br>
+Age-20
+<br>
+study-Graduation
